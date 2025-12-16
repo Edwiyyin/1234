@@ -1,0 +1,9 @@
+# Room Reservation System - Python Dependencies
+# This project uses only Python standard library
+# No external packages required
+
+# Python version: 3.7+
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
